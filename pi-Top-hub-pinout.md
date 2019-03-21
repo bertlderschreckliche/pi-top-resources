@@ -66,10 +66,10 @@ View of header end-on, board as mounted in Pi-Top enclosure.
 
 top
 
-| GPIO21 | GPIO26 | GPIO19 |  GPIO12 | GPIO5 | ID_SD | GPIO8 | GPIO25 | GPIO10 | GPIO23 | GPIO27 | GPIO17 | GPIO14 | GPIO3 | SPDIF/HDMI audio | 3.3V | 5V |
+| GPIO21 | GPIO26 | GPIO19 |  GPIO12 | GPIO05 | ID_SD | GPIO08 | GPIO25 | GPIO10 | GPIO23 | GPIO27 | GPIO17 | GPIO14 | GPIO03 | SPDIF/HDMI audio | 3.3V | 5V |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 34 | 32 | 30 | 28 | 26 | 24 | 22 | 20 | 18 | 16 | 14 | 12 | 10 | 08 | 06 | 04 | 02 |
 | 33 | 31 | 29 | 27 | 25 | 23 | 21 | 19 | 17 | 15 | 13 | 11 | 09 | 07 | 05 | 03 | 01 |
-| GPIO20 | GPIO16 | GPIO13 | GPIO6 | ID_SC | GPIO7 | GPIO11 | GPIO9 | GPIO24 | GPIO22 | GPIO18 | GPIO15 | GPIO4 | GPIO2 | GND | 3.3V perm | 12V-18V |
+| GPIO20 | GPIO16 | GPIO13 | GPIO06 | ID_SC | GPIO07 | GPIO11 | GPIO09 | GPIO24 | GPIO22 | GPIO18 | GPIO15 | GPIO04 | GPIO02 | GND | 3.3V perm | 12V-18V |
 
 bottom
